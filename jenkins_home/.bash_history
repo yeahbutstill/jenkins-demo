@@ -16,3 +16,10 @@ exit
 cat /tmp/remote-file
 ssh -i remote-key remote_user@remote_host
 exit
+whoiam
+whoiam
+ls
+id
+exit;
+ansible 
+exit;
