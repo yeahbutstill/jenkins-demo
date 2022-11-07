@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/javax-mail-api/WEB-INF/lib/javax-mail-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/javax-mail-api/WEB-INF/lib/javax.mail-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/mina-sshd-api-core/WEB-INF/lib/sshd-core-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/mina-sshd-api-core/WEB-INF/lib/mina-sshd-api-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

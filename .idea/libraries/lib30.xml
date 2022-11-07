@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jsch/WEB-INF/lib/jsch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/jsch/WEB-INF/lib/jsch-0.1.55.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

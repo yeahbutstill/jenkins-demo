@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/workflow-support/WEB-INF/lib/jboss-marshalling-river-2.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/workflow-support/WEB-INF/lib/jboss-marshalling-2.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/workflow-support/WEB-INF/lib/workflow-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

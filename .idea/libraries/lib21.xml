@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/echarts-api/WEB-INF/lib/echarts-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/echarts-api/WEB-INF/lib/eclipse-collections-api-9.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/echarts-api/WEB-INF/lib/eclipse-collections-9.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

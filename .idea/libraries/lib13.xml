@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/durable-task/WEB-INF/lib/lib-durable-task-35.v59c17a_7e68b_f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/durable-task/WEB-INF/lib/durable-task.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

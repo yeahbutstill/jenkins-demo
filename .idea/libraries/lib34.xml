@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib34">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/gradle/WEB-INF/lib/commons-validator-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/gradle/WEB-INF/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/gradle/WEB-INF/lib/gradle-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/gradle/WEB-INF/lib/commons-collections-3.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="branch-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/branch-api/WEB-INF/lib/branch-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

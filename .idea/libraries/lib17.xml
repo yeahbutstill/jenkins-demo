@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/snakeyaml-api/WEB-INF/lib/snakeyaml-1.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/snakeyaml-api/WEB-INF/lib/snakeyaml-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

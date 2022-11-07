@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ionicons-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/ionicons-api/WEB-INF/lib/ionicons-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

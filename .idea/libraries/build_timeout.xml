@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="build-timeout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/build-timeout/WEB-INF/lib/build-timeout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

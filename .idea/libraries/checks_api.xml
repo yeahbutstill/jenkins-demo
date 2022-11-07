@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="checks-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/checks-api/WEB-INF/lib/checks-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

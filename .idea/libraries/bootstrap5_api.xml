@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bootstrap5-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/bootstrap5-api/WEB-INF/lib/bootstrap5-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

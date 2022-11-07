@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/script-security/WEB-INF/lib/groovy-sandbox-1.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/script-security/WEB-INF/lib/script-security.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

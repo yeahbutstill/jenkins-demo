@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib37">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/pipeline-groovy-lib/WEB-INF/lib/pipeline-groovy-lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/pipeline-groovy-lib/WEB-INF/lib/ivy-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/sshd/WEB-INF/lib/sshd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/sshd/WEB-INF/lib/eddsa-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

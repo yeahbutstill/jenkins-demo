@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/commons-text-api/WEB-INF/lib/commons-text-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/commons-text-api/WEB-INF/lib/commons-text-1.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

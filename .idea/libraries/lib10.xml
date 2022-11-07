@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/token-macro/WEB-INF/lib/token-macro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/token-macro/WEB-INF/lib/accessors-smart-2.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/token-macro/WEB-INF/lib/json-path-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/token-macro/WEB-INF/lib/json-smart-2.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/javax-activation-api/WEB-INF/lib/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/javax-activation-api/WEB-INF/lib/javax-activation-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

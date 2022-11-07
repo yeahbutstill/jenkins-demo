@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pipeline-stage-view">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/pipeline-stage-view/WEB-INF/lib/pipeline-stage-view.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

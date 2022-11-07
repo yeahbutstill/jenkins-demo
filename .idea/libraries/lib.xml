@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/antisamy-markup-formatter/WEB-INF/lib/owasp-java-html-sanitizer-20220608.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/antisamy-markup-formatter/WEB-INF/lib/antisamy-markup-formatter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

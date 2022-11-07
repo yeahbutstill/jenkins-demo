@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/credentials/WEB-INF/lib/antlr4-runtime-4.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jenkins_home/plugins/credentials/WEB-INF/lib/credentials.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
