@@ -1,0 +1,20 @@
+Started by user [8mha:////4BKYv2TyG7pHGxVk7S7YxxYE+dsIDsFi8K6eQySD8NxbAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup-to-aws
+[SSH] script:
+MYSQL_HOST="db_host"
+AWS_SECRET_KEY=**********
+MYSQL_PASSWORD=**********
+DATABASE_NAME="test2"
+AWS_BUCKET_NAME="test-reuse-job"
+
+/tmp/script.sh $MYSQL_HOST $MYSQL_PASSWORD $DATABASE_NAME $AWS_SECRET_KEY $AWS_BUCKET_NAME
+
+[SSH] executing...
+Uploading your db-13-50-17.sql backup
+Completed 1.2 KiB/1.2 KiB (3.1 KiB/s) with 1 file(s) remainingupload: ../../tmp/db-13-50-17.sql to s3://test-reuse-job/db-13-50-17.sql
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS
