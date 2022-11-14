@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>cloudbees-folder</artifactId>
-  <version>6.773.vd2dcc704ee7e</version>
+  <version>6.795.v3e23d3c6f194</version>
   <packaging>hpi</packaging>
   <name>Folders Plugin</name>
   <description>This plugin allows users to create "folders" to organize jobs. Users can define custom taxonomies (like
@@ -18,9 +18,9 @@
     </license>
   </licenses>
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/cloudbees-folder-plugin.git</connection>
+    <connection>scm:git:https://github.com/jenkinsci/cloudbees-folder-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/cloudbees-folder-plugin.git</developerConnection>
-    <tag>d2dcc704ee7e7924267149f1d7d1356bc0023a27</tag>
+    <tag>3e23d3c6f194a99f3a6720938674c6d397db9763</tag>
     <url>https://github.com/jenkinsci/cloudbees-folder-plugin</url>
   </scm>
   <distributionManagement>
@@ -35,9 +35,15 @@
   </distributionManagement>
   <dependencies>
     <dependency>
+      <groupId>io.jenkins.plugins</groupId>
+      <artifactId>ionicons-api</artifactId>
+      <version>31.v4757b_6987003</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>credentials</artifactId>
-      <version>1139.veb_9579fca_33b_</version>
+      <version>1143.vb_e8b_b_ceee347</version>
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
@@ -91,7 +97,7 @@
       <plugin>
         <groupId>org.jenkins-ci.tools</groupId>
         <artifactId>maven-hpi-plugin</artifactId>
-        <version>3.34</version>
+        <version>3.35</version>
         <extensions>true</extensions>
       </plugin>
     </plugins>

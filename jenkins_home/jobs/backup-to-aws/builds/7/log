@@ -1,0 +1,20 @@
+Started by user [8mha:////4PKVbppWRNXtBvfRY7calqOBFOOxjrzqxc5HLUKsDa40AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgYu/dLi1CL9lMS8TABb0st5vwAAAA==[0mDani Setiawan
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup-to-aws
+[SSH] script:
+MYSQL_HOST="db_host"
+AWS_SECRET_KEY=**********
+MYSQL_PASSWORD=**********
+DATABASE_NAME="testdb"
+AWS_BUCKET_NAME="jenkins-mysql-backup-october-2022"
+
+/tmp/script.sh $MYSQL_HOST $MYSQL_PASSWORD $DATABASE_NAME $AWS_SECRET_KEY $AWS_BUCKET_NAME
+
+[SSH] executing...
+Uploading your db-15-14-48.sql backup
+Completed 1.9 KiB/1.9 KiB (5.2 KiB/s) with 1 file(s) remainingupload: ../../tmp/db-15-14-48.sql to s3://jenkins-mysql-backup-october-2022/db-15-14-48.sql
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS

@@ -23,7 +23,29 @@ mysqldump -uroot -h db_host -p testdb > /tmp/db.sql
 ```
 ## Config AWS CLI
 ```shell
-$ export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
-$ export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+$ export AWS_ACCESS_KEY_ID={YOUR_KEY}
+$ export AWS_SECRET_ACCESS_KEY={YOUR_KEY}
 $ export AWS_DEFAULT_REGION=ap-southeast-1
+```
+
+## Config Git-Server
+```shell
+export GITLAB_HOME=/srv/gitlab
+```
+Visit the GitLab URL, username root and the password from the following command:
+```shell
+docker exec -it git-server grep 'Password:' /etc/gitlab/initial_root_password
+# The password file will be automatically deleted in the first reconfigure run after 24 hours.
+```
+Password: abxdNVEsBSRV4NWh9bkfzPR+MMAgIXmPcXt8Q5qE+JQ=
+
+## Create User
+![create_user](pic/Screenshot%20from%202022-11-14%2020-14-40.png)
+Login and Change Password
+
+## Local DNS clone
+```shell
+git clone http://gitlab.yeahbutstill.badass.world:8090/jenkins/maven.git
+# with username and password
+git clone http://{USERNAME}:{PASSWORD}@gitlab.yeahbutstill.badass.world:8090/jenkins/maven.git
 ```

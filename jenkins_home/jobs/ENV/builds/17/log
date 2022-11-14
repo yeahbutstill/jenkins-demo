@@ -1,0 +1,20 @@
+Started by user [8mha:////4BKYv2TyG7pHGxVk7S7YxxYE+dsIDsFi8K6eQySD8NxbAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/ENV
+[ENV] $ /bin/sh -xe /tmp/jenkins10057377370225919054.sh
++ echo BUILD NUMBER FOR THIS IS 17
+BUILD NUMBER FOR THIS IS 17
++ echo BUILD ID IS 17
+BUILD ID IS 17
++ echo BUILD URL IS http://yeahbutstill.badass.world:8080/job/ENV/17/
+BUILD URL IS http://yeahbutstill.badass.world:8080/job/ENV/17/
++ echo JOB NAME IS ENV
+JOB NAME IS ENV
++ echo *********************
+*********************
++ echo Jenkins-course
+Jenkins-course
++ echo Indonesia
+Indonesia
+Sending e-mails to: mayadani28@gmail.com
+Finished: SUCCESS

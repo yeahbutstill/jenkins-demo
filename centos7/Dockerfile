@@ -15,9 +15,8 @@ RUN chown -R remote_user:remote_user /home/remote_user && \
 RUN ssh-keygen -A && rm -rf /run/nologin
 
 RUN yum -y install mysql
-
-RUN yum -y install epel-release && \
-    yum -y install python3-pip && \
+RUN yum -y install epel-release
+RUN yum -y install python3-pip && \
     pip3 install --upgrade pip && \
     pip3 install awscli
 

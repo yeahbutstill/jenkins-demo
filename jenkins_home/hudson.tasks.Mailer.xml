@@ -1,7 +1,15 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <hudson.tasks.Mailer_-DescriptorImpl plugin="mailer@438.v02c7f0a_12fa_4">
   <defaultSuffix></defaultSuffix>
+  <hudsonUrl>http://yeahbutstill.badass.world:8080/</hudsonUrl>
+  <authentication>
+    <username>AKIA2ZZ6X4XGSFEB577H</username>
+    <password>{AQAAABAAAAAwhlnOzsle3jFKUY8Pmkp2O+BK2Noy+/G6N1vgEyVUwiUZKyJeh9d6fvOzt7FQ/eRtDAlmVzwzzBUsBmTe2v0uTA==}</password>
+  </authentication>
+  <replyToAddress>mayadani28@gmail.com</replyToAddress>
+  <smtpHost>email-smtp.ap-southeast-1.amazonaws.com</smtpHost>
   <useSsl>false</useSsl>
-  <useTls>false</useTls>
+  <useTls>true</useTls>
+  <smtpPort>587</smtpPort>
   <charset>UTF-8</charset>
 </hudson.tasks.Mailer_-DescriptorImpl>
