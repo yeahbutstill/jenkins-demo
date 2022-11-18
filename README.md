@@ -49,3 +49,24 @@ git clone http://gitlab.yeahbutstill.badass.world:8090/jenkins/maven.git
 # with username and password
 git clone http://{USERNAME}:{PASSWORD}@gitlab.yeahbutstill.badass.world:8090/jenkins/maven.git
 ```
+## Set tmp env
+```shell
+$ export BUILD_TAG=1.2.1
+$ export IMAGE=mayhome-project
+$ export PASS={your_password}
+   
+$ export IMAGE=$(sed -n '1p' /tmp/.auth)
+$ export TAG=$(sed -n '2p' /tmp/.auth)
+$ export PASS=$(sed -n '3p' /tmp/.auth)
+```
+## Publish
+```shell
+#!/bin/bash
+
+export IMAGE=$(sed -n '1p' /tmp/.auth)
+export TAG=$(sed -n '2p' /tmp/.auth)
+export PASS=$(sed -n '3p' /tmp/.auth)
+
+docker login -u 2819930922 -p $PASS
+cd /home/prod_user1/maven && docker-compose up -d
+```
